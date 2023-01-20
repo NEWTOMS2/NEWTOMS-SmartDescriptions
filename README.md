@@ -15,3 +15,10 @@ thousands of comprehensible texts automatically.
 ![Batch Job](./imgs/batch-job.PNG)
 
 ![output batch job](./imgs/output-batch-job.PNG)
+
+## How does the solution work?
+
+You can implement the SmartDescriptions Algorithm from AWS Marketplace and execute the notebook to train the model with your data and consume the solution in two ways:
+
+1. Real-time: A SageMaker endpoint is deployed to consume the solution in real-time [See SmartDescriptions Notebook](./SmartDescriptions.ipynb)
+2. Batch process: Multiple input payloads are processed together through a batch job [See SmartDescriptions Notebook](./SmartDescriptions.ipynb)
