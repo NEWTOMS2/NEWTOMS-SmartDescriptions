@@ -1,4 +1,4 @@
-# SmartDescriptions  - AWS Marketplace Algoritm
+# SmartDescriptions  - AWS Marketplace Algorithm
 
 **SmartDescriptions** is a data-to-text solution that allows you to generate text from structured data. With the SmartDescriptions solution you can save time by generating
 thousands of comprehensible texts automatically.
